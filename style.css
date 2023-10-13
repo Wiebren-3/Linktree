@@ -1,0 +1,129 @@
+.parent-div {
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .FRAME-4-21 {
+    transform: rotate(0deg);
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+  }
+  .RECTANGLE-11-61 {
+    position: absolute;
+    left: 810px;
+    top: 146px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(217, 217, 217, 0.65);
+  
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  
+    width: 300px;
+    height: 58px;
+    opacity: 1;
+  }
+  .RECTANGLE-11-62 {
+    position: absolute;
+    left: 810px;
+    top: 246px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(217, 217, 217, 0.65);
+  
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  
+    width: 300px;
+    height: 58px;
+    opacity: 1;
+  }
+  .RECTANGLE-11-63 {
+    position: absolute;
+    left: 810px;
+    top: 346px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(217, 217, 217, 0.65);
+  
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  
+    width: 300px;
+    height: 58px;
+    opacity: 1;
+  }
+  .RECTANGLE-11-64 {
+    position: absolute;
+    left: 810px;
+    top: 446px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(217, 217, 217, 0.65);
+  
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  
+    width: 300px;
+    height: 58px;
+    opacity: 1;
+  }
+  .RECTANGLE-11-65 {
+    position: absolute;
+    left: 810px;
+    top: 546px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(217, 217, 217, 0.65);
+  
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  
+    width: 300px;
+    height: 58px;
+    opacity: 1;
+  }
+  .RECTANGLE-11-66 {
+    position: absolute;
+    left: 810px;
+    top: 646px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(217, 217, 217, 0.65);
+  
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  
+    width: 300px;
+    height: 58px;
+    opacity: 1;
+  }
+  
+  
