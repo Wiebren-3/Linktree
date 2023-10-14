@@ -131,3 +131,21 @@ body {
     position: absolute;
     left: 10px;
   }
+
+  .link-fb {
+    color: #ffffff;
+    position: absolute;
+    left: 10px;
+  }
+
+  .link-dc {
+    color: #ffffff;
+    position: absolute;
+    left: 10px;
+  }
+
+  .link-insta {
+    color: #ffffff;
+    position: absolute;
+    left: 25px;
+  }
